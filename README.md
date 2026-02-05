@@ -8,4 +8,4 @@ To operationalise the pipeline, an interactive Power BI dashboard was built and 
 
 Overall, this project demonstrates how real-time APIs, data transformation, and frontend visualisation can be integrated into a practical decision-support system. The solution highlights inconsistencies in off-peak bus operations and provides actionable insights that can help authorities optimise dispatch intervals, improve service reliability, and enhance the daily commuting experience.
 
-Key Tools & Concepts: Alteryx Designer, REST APIs, JSON parsing, data pipelines, Power BI, Power Automate, real-time data processing, public transport analytics.
+Key Tools & Concepts: Alteryx Designer, JSON parsing, data pipelines, Power BI, Power Automate, real-time data processing, public transport analytics.
